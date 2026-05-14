@@ -1,0 +1,14 @@
+langchain==0.1.20
+langchain-community==0.0.38
+langchain-huggingface==0.0.3
+sentence-transformers==2.7.0
+faiss-cpu==1.8.0
+streamlit==1.35.0
+transformers==4.41.2
+torch==2.3.0
+unstructured==0.14.4
+python-docx==1.1.2
+pymupdf==1.24.5
+python-pptx==0.6.23
+openpyxl==3.1.4
+pandas==2.2.2
